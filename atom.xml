@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ionblog.github.io</id>
     <title>Ion Blog</title>
-    <updated>2022-03-17T05:33:10.800Z</updated>
+    <updated>2022-03-17T05:34:20.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ionblog.github.io"/>
     <link rel="self" href="https://ionblog.github.io/atom.xml"/>
